@@ -1,4 +1,4 @@
-package ejercicio_thread_ddr_1;
+package paquetehilos;
  
 public class Ejercicio_thread_DDR_1 {
  

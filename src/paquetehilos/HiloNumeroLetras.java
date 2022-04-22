@@ -1,4 +1,4 @@
-package ejercicio_thread_ddr_1;
+package paquetehilos;
 
 public class HiloNumeroLetras implements Runnable {
 
